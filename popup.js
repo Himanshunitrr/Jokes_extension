@@ -3,7 +3,7 @@ window.onload = function () {
   button.addEventListener("click", get_joke_of_the_day)
   get_joke_of_the_day()
 }
-
+// checking something
 function get_joke_of_the_day() {
   var xhttp = new XMLHttpRequest();
   xhttp.onreadystatechange = function () {
