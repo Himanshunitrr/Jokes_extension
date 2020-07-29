@@ -1,4 +1,4 @@
 ## Found some bug
-#### Create an that issue and issue will be assigned to who so ever will ask to work on it first.
+#### Create an issue that  and issue will be assigned to who so ever will ask to work on it first.
 ## Want to change some UI/UX
 #### Create a issue regarding that and then create a PR
