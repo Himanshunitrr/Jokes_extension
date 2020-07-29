@@ -4,6 +4,6 @@
 [Jokes on firefox](https://addons.mozilla.org/en-US/firefox/addon/read-jokes/)
 ## Chrome extension
 [Jokes on chrome](https://chrome.google.com/webstore/detail/jokes/ippoklecbobjboemkghfbibnpfkfeffb/related?hl=en&pli=1)
-## Microsof-tEdge extension
+## Microsoft-Edge extension
 [Jokes on edge](https://microsoftedge.microsoft.com/addons/detail/jokes/lmfckgcmhgacobhcbbgmlcmacdipmahc)
 #### For contribution read [DOCUMENTATION.md](https://github.com/Himanshunitrr/Jokes_chrome_extension/blob/master/CONTRIBUTION.md)
