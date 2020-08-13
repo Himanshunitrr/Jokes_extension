@@ -1,15 +1,15 @@
-body{
+body {
   min-width: 300px;
-  background-color: #BAFF29;
+  background-color: #baff29;
 }
-h1{
+h1 {
   text-align: center;
 }
-p{
+p {
   font-size: 18px;
   font-weight: bold;
 }
-button{
+button {
   background-color: aqua;
   width: 80vw;
   margin-left: 20px;
